@@ -1,0 +1,28 @@
+{
+  "name": "typescript-hands-on",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node out/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityapant1286/typescript-hands-on.git"
+  },
+  "author": "Aditya Pant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityapant1286/typescript-hands-on/issues"
+  },
+  "homepage": "https://github.com/adityapant1286/typescript-hands-on#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.110",
+    "@types/request": "^2.47.1"
+  }
+}
